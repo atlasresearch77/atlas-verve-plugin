@@ -1,0 +1,14 @@
+{
+  "name": "atlas-verve-plugins",
+  "description": "Plugins that connect AI assistants to Atlas Verve AI, the human-approved LinkedIn content studio",
+  "owner": {
+    "name": "Atlas Verve AI"
+  },
+  "plugins": [
+    {
+      "name": "atlas-verve",
+      "source": "./plugins/atlas-verve",
+      "description": "Draft LinkedIn posts in your own voice from Claude and send them to Atlas Verve for your approval (Atlas Connect)"
+    }
+  ]
+}
