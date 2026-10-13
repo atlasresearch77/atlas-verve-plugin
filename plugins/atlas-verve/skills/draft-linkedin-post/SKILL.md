@@ -1,6 +1,6 @@
 ---
 name: draft-linkedin-post
-description: Draft a LinkedIn post in the user's own voice through Atlas Verve (Atlas Connect), revise it, and send it to the user for approval. Use when asked to write, draft, improve or prepare a LinkedIn post, to list or check their Atlas Verve drafts, or to get a draft ready for review.
+description: Draft a post in the user's own voice through Atlas Verve (Atlas Connect), revise it, and send it to the user for approval. Use whenever the user asks to create, write, draft, improve or prepare a post or draft about any topic (for example "create draft about open banking", "write a post on X", "draft something on Y"), or to list, check or continue their Atlas Verve drafts. Also use when they mention Atlas Verve, LinkedIn content or thought leadership.
 ---
 
 # Draft a LinkedIn post with Atlas Verve
